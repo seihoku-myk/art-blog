@@ -1,6 +1,9 @@
 h1 {
   font-family: "ヒラギノ角ゴシック";
 }
+h1 img{
+  width:80%;
+}
 h2 {
   color: #9e3eb2;
   font-size: 30px;
