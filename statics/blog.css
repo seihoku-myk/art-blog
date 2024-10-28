@@ -1,0 +1,74 @@
+h1 {
+  font-family: "ヒラギノ角ゴシック";
+}
+h2 {
+  color: #9e3eb2;
+  font-size: 30px;
+}
+body {
+  background-color: white;
+  width: 100%;
+  padding: 0 8.33333%;
+}
+
+.blog-wrapper {
+  display: flex;
+}
+.blog-container {
+  box-shadow: 10px 0 5 0;
+  margin: 5px;
+}
+.post-card {
+  width: 350px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  text-align: center;
+}
+
+.profile-section {
+  display: flex;
+  align-items: center;
+  padding: 15px;
+  background-color: white;
+}
+
+.profile-img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.profile-name {
+  font-size: 14px;
+  color: #333;
+}
+
+.photo-section {
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+}
+
+.photo {
+  width: 45%;
+  border-radius: 10px;
+}
+
+.caption-section {
+  padding: 10px;
+  background-color: white;
+}
+
+.caption-section p {
+  margin-bottom: 5px;
+  color: #333;
+  font-size: 14px;
+}
+
+.timestamp {
+  font-size: 12px;
+  color: #999;
+}
