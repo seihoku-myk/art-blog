@@ -9,7 +9,8 @@ h2 {
   font-size: 30px;
 }
 body {
-  margin: 0;
+  width: 1000px;
+  margin: auto;
 }
 main {
   background-color: white;
@@ -124,16 +125,16 @@ img {
 }
 
 .main-banner img {
-  width: 50%;
+  width: 100%;
   height: auto;
 }
 
 .feature1 {
-  width: 50%;
+  width: 100%;
   height: auto;
 }
 
 .feature2 {
-  width: 50%;
+  width: 100%;
   height: auto;
 }
