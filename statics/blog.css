@@ -8,6 +8,9 @@ h2 {
   color: #9e3eb2;
   font-size: 30px;
 }
+body {
+  margin: 0;
+}
 main {
   background-color: white;
   width: 100%;
@@ -15,11 +18,13 @@ main {
 }
 
 header {
-  height: 40px;
+  height: 55px;
   background-color: #9e3eb2;
   width: 100%;
-  font-family: Noto Serif;
+  font-family: Serif;
   font-size: 32px;
+  margin: 0;
+  color: white;
 }
 
 .blog-wrapper {
