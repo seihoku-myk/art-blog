@@ -1,17 +1,25 @@
 h1 {
   font-family: "ヒラギノ角ゴシック";
 }
-h1 img{
-  width:80%;
+h1 img {
+  width: 80%;
 }
 h2 {
   color: #9e3eb2;
   font-size: 30px;
 }
-body {
+main {
   background-color: white;
   width: 100%;
   padding: 0 8.33333%;
+}
+
+header {
+  height: 40px;
+  background-color: #9e3eb2;
+  width: 100%;
+  font-family: Noto Serif;
+  font-size: 32px;
 }
 
 .blog-wrapper {
